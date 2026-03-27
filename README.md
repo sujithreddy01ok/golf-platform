@@ -1,0 +1,12 @@
+.ENV CONTENTS 
+
+SUPABASE_URL=https://pbtytydyteagzcbixdou.supabase.co
+SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBidHl0eWR5dGVhZ3pjYml4ZG91Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ1MzA3NjAsImV4cCI6MjA5MDEwNjc2MH0.TBsGKGObwsrANnATZMk-qkLAdEqrOt3KuJVSHFbrw0k
+JWT_SECRET=supersecret
+STRIPE_SECRET=sb_secret_vCaQRGDgxDncUdHMh9EWug_ji_9fm0K
+
+BEARER TOKEN : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNkMDIzM2MzLWEwMDMtNDBkYi1iYzlhLWJlMjFkYTYwZTIzZCIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzc0NTUyNjEyLCJleHAiOjE3NzUxNTc0MTJ9.xtniBki3iHGZqM6F4o3uDGPuMaXZlQZpayaO3uf-1sw
+
+CHAT LINK 1 : https://chatgpt.com/share/69c65e0a-66b8-8324-8e02-78c007f70bf8
+CHAT LINK 2: https://chatgpt.com/share/69c6c3d4-4e84-8324-8f21-767033189052
+SITE LIVE LINK : https://golf-platform-frontend.vercel.app/
